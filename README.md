@@ -1,0 +1,2 @@
+# CRG
+Classic Random Goal
